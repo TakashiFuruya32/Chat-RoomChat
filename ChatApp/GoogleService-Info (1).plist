@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>345080364431-geb5v13ubiuim139bqaiaum9jabk72rp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.345080364431-geb5v13ubiuim139bqaiaum9jabk72rp</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDTCuPZAei3OqKx1j0fCjPhRRGzfM3hCKo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>345080364431</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>createmyself-hechizan.com.ChatApp</string>
+	<key>PROJECT_ID</key>
+	<string>chatapp-6a05b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chatapp-6a05b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:345080364431:ios:ecd2fbd0cab1676d88dffa</string>
+</dict>
+</plist>
